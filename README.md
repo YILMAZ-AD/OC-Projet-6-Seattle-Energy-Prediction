@@ -541,4 +541,4 @@ EDA → Log Transform → Nettoyage ciblé → Data Leakage → Feature Engineer
 
 ---
 
-*Projet réalisé dans le cadre du parcours **Data Engineer** - OpenClassrooms · Daniel Alican YILMAZ · Juin 2026*
+*Projet réalisé dans le cadre du parcours **Data Engineer** - OpenClassrooms · YILMAZ - AD · Juin 2026*

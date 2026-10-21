@@ -541,4 +541,4 @@ EDA → Log Transform → Targeted Cleaning → Data Leakage → Feature Enginee
 
 ---
 
-*Project completed as part of the **Data Scientist** program — OpenClassrooms · Daniel YILMAZ · June 2026*
+*Project completed as part of the **Data Scientist** program — OpenClassrooms · YILMAZ - AD · June 2026*
